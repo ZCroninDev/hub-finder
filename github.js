@@ -1,3 +1,5 @@
+// Must ignore this file. Attempted to git ignore but didnt work
+
 class Github {
   constructor() {
     this.config = {
