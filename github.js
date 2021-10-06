@@ -1,4 +1,4 @@
-class GitHub {
+class Github {
   constructor() {
     this.config = {
       headers: {
